@@ -1,4 +1,4 @@
-package Polymorphism;
+package OOPSConcept.Polymorphism;
 
 public class Animal {
 
