@@ -1,4 +1,4 @@
-package Inheritance;
+package OOPSConcept.Inheritance;
 
 public class Animal {
     public Animal() {

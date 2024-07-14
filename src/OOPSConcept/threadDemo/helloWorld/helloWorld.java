@@ -1,4 +1,4 @@
-package Thread.threadDemo.helloWorld;
+package OOPSConcept.threadDemo.helloWorld;
 
 public class helloWorld {
     public void printHelloWorld() {
