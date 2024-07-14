@@ -1,4 +1,4 @@
-package Thread.threadDemo.threadNumberSystem;
+package OOPSConcept.threadDemo.threadNumberSystem;
 
 public class NumberSystem implements Runnable{
     private int number;

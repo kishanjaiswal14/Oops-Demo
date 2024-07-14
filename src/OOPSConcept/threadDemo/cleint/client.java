@@ -1,7 +1,7 @@
-package Thread.threadDemo.cleint;
+package OOPSConcept.threadDemo.cleint;
 
-import Thread.threadDemo.helloWorld.helloWorld;
-import Thread.threadDemo.threadNumberSystem.NumberSystem;
+import OOPSConcept.threadDemo.helloWorld.helloWorld;
+import OOPSConcept.threadDemo.threadNumberSystem.NumberSystem;
 
 public class client {
     public static void main(String[] args) {
